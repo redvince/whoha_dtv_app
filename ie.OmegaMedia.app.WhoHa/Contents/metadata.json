@@ -1,0 +1,23 @@
+{
+	"identifier": "ie.OmegaMedia.app.WhoHa",
+	"name": "Who?Ha",
+	"version": "1.0.0",
+	"author": "Vincent Redmond, Gary Reid",
+	"company": "Omega Media",
+	"copyright": "-Company copyright-",
+	"description": "Who?Ha is a fun filled guessing game for all the Family.",
+	"scripts": "Javascript/init.js",
+	"keywords": "Who?Ha",
+	"categories": [
+		"games"
+	],
+	"images": {
+		"header": {
+			"normal": "Images/header1.png"
+		},
+		"about": "Images/about.png",
+		"icon": {
+			"192x192": "Images/icon3.png"
+		}
+	}
+}
