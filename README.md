@@ -21,7 +21,7 @@ Server-side Web API - CodeIgniter.
 
 Model written:
 
-  whohaWebService/application/models/image_model.php
+  /whohaWebService/application/models/image_model.php
 
 View written:
 
